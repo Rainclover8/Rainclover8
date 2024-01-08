@@ -52,7 +52,13 @@ burayı ekledk
 </div>
 
 ###
+<div align="center">
+  <a href="https://open.spotify.com/user/483hbi7xj5v1v5lt3wtdujso0">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=483hbi7xj5v1v5lt3wtdujso0&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
+###
 ###
 
 <br clear="both">
