@@ -1,4 +1,7 @@
-
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 # 💫 About Me:
 Merhaba 👋 Ben Baran Çiçek, 2 yıllık yazılım geliştirme deneyimine sahip bir freelancerım. Özellikle JavaScript, React, Python ve Django gibi teknolojilere ilgi duyuyorum.<br><br>Şu anda kendimi geliştirerek ve kendi çağımda projeler gerçekleştirerek yeni beceriler kazanıyorum. Bu süreçte açık kaynaklı projelere katkıda bulunuyor ve çeşitli teknoloji alanlarında deneyimlerimi artırıyorum.<br><br>GitHub profilimdeki projelerimdeki katkılarımı inceleyerek, yazılım geliştirme becerilerim hakkında daha fazla bilgi edinebilirsiniz.<br><br>Hoş geldiniz! Projelerimle ilgili geri bildirimleriniz ve işbirliği teklifleriniz için her zaman açığım.<br><br>Teşekkürler!
 
