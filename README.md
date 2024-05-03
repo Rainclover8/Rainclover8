@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Merhaba 👋 Ben Baran Çiçek, 2 yıllık yazılım geliştirme deneyimine sahip bir freelancerım. Özellikle JavaScript, React, Python ve Django gibi teknolojilere ilgi duyuyorum.<br><br>Şu anda kendimi geliştirerek ve kendi çağımda projeler gerçekleştirerek yeni beceriler kazanıyorum. Bu süreçte açık kaynaklı projelere katkıda bulunuyor ve çeşitli teknoloji alanlarında deneyimlerimi artırıyorum.<br><br>GitHub profilimdeki projelerimdeki katkılarımı inceleyerek, yazılım geliştirme becerilerim hakkında daha fazla bilgi edinebilirsiniz.<br><br>Hoş geldiniz! Projelerimle ilgili geri bildirimleriniz ve işbirliği teklifleriniz için her zaman açığım.<br><br>Teşekkürler!
+Merhaba 👋 Ben Baran Çiçek, 3 yıllık yazılım geliştirme deneyimine sahip bir freelancerım. Özellikle JavaScript, React, Python ve Django gibi teknolojilere ilgi duyuyorum.<br><br>Şu anda kendimi geliştirerek ve kendi çağımda projeler gerçekleştirerek yeni beceriler kazanıyorum. Bu süreçte açık kaynaklı projelere katkıda bulunuyor ve çeşitli teknoloji alanlarında deneyimlerimi artırıyorum.<br><br>GitHub profilimdeki projelerimdeki katkılarımı inceleyerek, yazılım geliştirme becerilerim hakkında daha fazla bilgi edinebilirsiniz.<br><br>Hoş geldiniz! Projelerimle ilgili geri bildirimleriniz ve işbirliği teklifleriniz için her zaman açığım.<br><br>Teşekkürler!
 
 
 ## 🌐 Socials:
